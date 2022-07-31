@@ -1,9 +1,9 @@
 <h2>This is a required task from Smart Methods Foundation.</h2>
-<h3>An Implementation ESP32 Servo movement with Speech to text website</h3>
+<h3>An Implementation ESP32 Servo movement via Web</h3>
 <ul>
   <li>This Implementation happen with several steps</li>
   <li>First is the creation of the website and make sure everything works along with the database connected to the website PHP server-side code</li>
-  <li>Then start to prepare the chips simulator which is (Wokwi.com) and import ESP32 chip and connect the Servo to the chip
+  <li>Then start to prepare the chips simulator which is (Wokwi.com) and import Adruino Uno ESP32 chip and connect the Servo to the chip
   <a href="https://ibb.co/jMg2Prh"><img src="https://i.ibb.co/G2cL457/image.png" alt="image" border="0"></a>
   </li>
   <li>After do some tests to the simulator to make sure it works</li>
